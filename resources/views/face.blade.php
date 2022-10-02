@@ -51,7 +51,7 @@
     </style>
 
     <main class="main-content  mt-0">
-        <div class="logo">
+        <div class="logo p-5">
             <a href="/main-idea">
                 <img src="../../../img/icon-es/main-logo.png" alt="" class="logo">
             </a>
@@ -93,9 +93,9 @@
             <div class="row">
                 <div class="col-8 mx-auto text-center mt-1">
                     <p class="mb-0 text-secondary">
-                        <script>
+                        {{-- <script>
                             document.write(new Date().getFullYear())
-                        </script> ekhscape studio.
+                        </script> ekhscape studio. --}}
                     </p>
                 </div>
             </div>

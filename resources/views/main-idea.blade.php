@@ -52,8 +52,8 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-9 text-center mx-auto">
-                        <h1 class="text-white mb-2 mt-5">ekhscape studio</h1>
-                        <p class="text-lead text-white">Feel free to walk around here and enjoy your journey.</p>
+                        <h1 class="text-white mb-2 mt-5">Relau Agriculture Station</h1>
+                        <p class="text-lead text-white"></p>
                     </div>
                 </div>
             </div>
@@ -68,9 +68,9 @@
 
                             <div class="col-lg-1 col-md-2 col-sm-3 col-4 text-center">
                                 <a href="javascript:;" class="avatar avatar-xl rounded-circle border border-success">
-                                    <img alt="Durian" class="p-1" src="../../../img/icon-es/t1.jpg">
+                                    <img alt="Foods" class="p-1" src="../../../img/icon-es/t1.jpg">
                                 </a>
-                                <p class="mb-0 text-sm">Durian</p>
+                                <p class="mb-0 text-sm">Foods</p>
                             </div>
                             <div class="col-lg-1 col-md-2 col-sm-3 col-4 text-center">
                                 <a href="javascript:;" class="avatar avatar-xl rounded-circle border border-success">
@@ -107,8 +107,15 @@
                 </div>
             </div>
 
-            {{-- optional interface --}}
+            {{-- map --}}
             <div class="row mt-4">
+                <div class="col">
+                    <img src="../../../img/bg/map.png" alt="map" class="w-100 border-radius-lg">
+                </div>
+            </div>
+
+            {{-- optional interface --}}
+            {{-- <div class="row mt-4">
                 <div class="col-12">
                     <div class="card">
                         <div class="card-body">
@@ -139,7 +146,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
 
             {{-- activity description --}}
             <div class="row mt-4">
@@ -181,6 +188,151 @@
                             </div>
                         </div>
                         <hr class="mx-5">
+                        <div class="card-body">
+                            <h6 class="mb-1">Accomodation</h6>
+                            <p class="mb-1 pb-0">Gold Valley Eco-Lodge</p>
+                            <div class="row">
+                                <div class="col-4 text-center">
+                                    <button class="btn btn-success">Musang King</button>
+                                </div>
+                                <div class="col-4 text-center">
+                                    <button class="btn btn-success">Udang Merah</button>
+                                </div>
+                                <div class="col-4 text-center">
+                                    <button class="btn btn-success">Hor Lor</button>
+                                </div>
+                            </div>
+                            <p class="mb-1 pb-0">Blue Valley Eco-Lodge</p>
+                            <div class="row">
+                                <div class="col-4 text-center">
+                                    <button class="btn btn-success">Belida</button>
+                                </div>
+                                <div class="col-4 text-center">
+                                    <button class="btn btn-success">Julawat</button>
+                                </div>
+                                <div class="col-4 text-center">
+                                    <button class="btn btn-success">Gelami</button>
+                                </div>
+                            </div>
+
+                            <h6 class="mb-1 mt-4">Facilities</h6>
+                            <div class="row mt-2">
+                                <div class="col-4 text-center">
+                                    <button class="btn btn-success">Zip Line King</button>
+                                </div>
+                                <div class="col-4 text-center">
+                                    <button class="btn btn-success">Sky Bike</button>
+                                </div>
+                                <div class="col-4 text-center">
+                                    <button class="btn btn-success">Petting Zoo</button>
+                                </div>
+                                <div class="col-4 text-center">
+                                    <button class="btn btn-success">Eco-Bike</button>
+                                </div>
+                                <div class="col-4 text-center">
+                                    <button class="btn btn-success px-2">Convention Centre</button>
+                                </div>
+                                <div class="col-4 text-center">
+                                    <button class="btn btn-success">Camp Site</button>
+                                </div>
+                            </div>
+
+                            <h6 class="mb-1 mt-4">Pick-up Mode</h6>
+
+                            <div class="overflow-scroll">
+                                <div class="d-flex">
+                                    <div class="col-lg-1 col-md-2 col-sm-3 col-4 text-center">
+                                        <a href="javascript:;"
+                                            class="avatar avatar-xl border border-radius-lg border-success">
+                                            <img alt="Walk-In" class="p-1" src="../../../img/icon-es/to1.jpg">
+                                        </a>
+                                        <p class="mb-0 text-sm">Walk-In</p>
+                                    </div>
+                                    <div class="col-lg-1 col-md-2 col-sm-3 col-4 text-center">
+                                        <a href="javascript:;"
+                                            class="avatar avatar-xl border border-radius-lg border-success">
+                                            <img alt="Delivery" class="p-1" src="../../../img/icon-es/to2.jpg">
+                                        </a>
+                                        <p class="mb-0 text-sm">Delivery</p>
+                                    </div>
+                                    <div class="col-lg-1 col-md-2 col-sm-3 col-4 text-center">
+                                        <a href="javascript:;"
+                                            class="avatar avatar-xl border border-radius-lg border-success">
+                                            <img alt="Drive-Thru" class="p-1" src="../../../img/icon-es/to3.jpg">
+                                        </a>
+                                        <p class="mb-0 text-sm">Drive-Thru</p>
+                                    </div>
+                                    <div class="col-lg-1 col-md-2 col-sm-3 col-4 text-center">
+                                        <a href="javascript:;"
+                                            class="avatar avatar-xl border border-radius-lg border-success">
+                                            <img alt="Advanced Booking" class="p-1"
+                                                src="../../../img/icon-es/to4.jpg">
+                                        </a>
+                                        <p class="mb-0 text-sm">Advanced Booking</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {{-- real-time interaction --}}
+            <div class="row mt-4">
+                <div class="col-12 col-lg-8">
+                    <div class="card">
+                        <div class="card-header d-flex align-items-center border-bottom py-3">
+                            <div class="d-flex align-items-center">
+                                <a href="javascript:;">
+                                    <img src="../../../img/bg/jpsquare.jpg" class="avatar" alt="profile-image">
+                                </a>
+                                <div class="mx-3">
+                                    <a href="javascript:;" class="text-dark font-weight-600 text-sm">Jabatan Pertanian
+                                        Pulau Pinang</a>
+                                    <small class="d-block text-muted">3 days ago</small>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <p class="pb-0 mb-0"><strong>Durian Festival</strong></p>
+                            <p class="mb-4">
+                                You're invited to the Durian Festival scheduled on 1 June 2024 until 31 July 2024. Come
+                                and bring back your most favorite Durian! <br>
+                                <a href="#">#durianrelau</a> <a href="#">#durianrelau</a> <a
+                                    href="#">#durianrelau</a> <a href="#">#durianrelau</a>
+                            </p>
+                            <img alt="Image placeholder" src="../../../img/bg/durianzs.jpg"
+                                class="img-fluid border-radius-lg shadow-lg">
+                            <div class="row align-items-center px-2 mt-4 mb-2">
+                                <div class="col-sm-6">
+                                    <div class="d-flex">
+                                        <div class="d-flex align-items-center">
+                                            <i class="fas fa-heart me-1 cursor-pointer"></i>
+                                            <span class="text-sm me-3 ">150</span>
+                                        </div>
+                                        <div class="d-flex align-items-center">
+                                            <i class="ni ni-chat-round me-1 cursor-pointer"></i>
+                                            <span class="text-sm me-3">36</span>
+                                        </div>
+                                        <div class="d-flex align-items-center">
+                                            <i class="ni ni-curved-next me-1 cursor-pointer"></i>
+                                            <span class="text-sm me-2">12</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <hr class="horizontal dark my-3">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {{-- ppce description --}}
+            <div class="row mt-4">
+                <div class="col">
+                    <div class="card">
+
+
                         <div class="card-header pb-0 p-3">
                             <h6 class="mb-1">Your Activity</h6>
                         </div>
@@ -196,7 +348,7 @@
                                     <p><strong>Organizer</strong></p>
                                 </div>
                                 <div class="col-8">
-                                    <p>Bahagian Pembangunan Industri Tanaman Jabatan Pertahanan</p>
+                                    <p>Bahagian Pembangunan Industri Tanaman Jabatan Pertanian</p>
                                 </div>
                             </div>
 
@@ -229,143 +381,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
 
-            {{-- real-time interaction --}}
-            <div class="row mt-4">
-                <div class="col-12 col-lg-8">
-                    <div class="card">
-                        <div class="card-header d-flex align-items-center border-bottom py-3">
-                            <div class="d-flex align-items-center">
-                                <a href="javascript:;">
-                                    <img src="../../../img/bg/jpsquare.jpg" class="avatar" alt="profile-image">
-                                </a>
-                                <div class="mx-3">
-                                    <a href="javascript:;" class="text-dark font-weight-600 text-sm">Jabatan Pertanian Pulau Pinang</a>
-                                    <small class="d-block text-muted">3 days ago</small>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card-body">
-                            <p class="pb-0 mb-0"><strong>Durian Festival</strong></p>
-                            <p class="mb-4">
-                                You're invited to the Durian Festival scheduled on 1 June 2024 until 31 July 2024. Come
-                                and bring back your most favorite Durian! <br>
-                                <a href="#">#durianrelau</a> <a href="#">#durianrelau</a> <a href="#">#durianrelau</a> <a href="#">#durianrelau</a>
-                            </p>
-                            <img alt="Image placeholder" src="../../../img/bg/durianzs.jpg"
-                                class="img-fluid border-radius-lg shadow-lg">
-                            <div class="row align-items-center px-2 mt-4 mb-2">
-                                <div class="col-sm-6">
-                                    <div class="d-flex">
-                                        <div class="d-flex align-items-center">
-                                            <i class="fas fa-heart me-1 cursor-pointer"></i>
-                                            <span class="text-sm me-3 ">150</span>
-                                        </div>
-                                        <div class="d-flex align-items-center">
-                                            <i class="ni ni-chat-round me-1 cursor-pointer"></i>
-                                            <span class="text-sm me-3">36</span>
-                                        </div>
-                                        <div class="d-flex align-items-center">
-                                            <i class="ni ni-curved-next me-1 cursor-pointer"></i>
-                                            <span class="text-sm me-2">12</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <hr class="horizontal dark my-3">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            {{-- ppce description --}}
-            <div class="row mt-4">
-                <div class="col">
-                    <div class="card">
-                        <div class="card-body">
-                            <h6 class="mb-1">Accomodation</h6>
-                            <p class="mb-1 pb-0">Gold Valley Eco-Lodge</p>
-                            <div class="row">
-                                <div class="col-4 text-center">
-                                    <button class="btn btn-success">Musang King</button>
-                                </div>
-                                <div class="col-4 text-center">
-                                    <button class="btn btn-success">Udang Merah</button>
-                                </div>
-                                <div class="col-4 text-center">
-                                    <button class="btn btn-success">Hor Lor</button>
-                                </div>
-                            </div>
-                            <p class="mb-1 pb-0">Blue Valley Eco-Lodge</p>
-                            <div class="row">
-                                <div class="col-4 text-center">
-                                    <button class="btn btn-success">Belida</button>
-                                </div>
-                                <div class="col-4 text-center">
-                                    <button class="btn btn-success">Julawat</button>
-                                </div>
-                                <div class="col-4 text-center">
-                                    <button class="btn btn-success">Gelami</button>
-                                </div>
-                            </div>
-
-                            <h6 class="mb-1 mt-4">Ticketing and Rental</h6>
-                            <div class="row mt-2">
-                                <div class="col-4 text-center">
-                                    <button class="btn btn-success">Zip Line King</button>
-                                </div>
-                                <div class="col-4 text-center">
-                                    <button class="btn btn-success">Sky Bike</button>
-                                </div>
-                                <div class="col-4 text-center">
-                                    <button class="btn btn-success">Petting Zoo</button>
-                                </div>
-                                <div class="col-4 text-center">
-                                    <button class="btn btn-success">Eco-Bike</button>
-                                </div>
-                                <div class="col-4 text-center">
-                                    <button class="btn btn-success px-2">Convention Centre</button>
-                                </div>
-                                <div class="col-4 text-center">
-                                    <button class="btn btn-success">Camp Site</button>
-                                </div>
-                            </div>
-
-                            <h6 class="mb-1 mt-4">Pick-up Mode</h6>
-
-                            <div class="overflow-scroll">
-                                <div class="d-flex">
-                                    <div class="col-lg-1 col-md-2 col-sm-3 col-4 text-center">
-                                        <a href="javascript:;" class="avatar avatar-xl border border-radius-lg border-success">
-                                            <img alt="Walk-In" class="p-1" src="../../../img/icon-es/to1.jpg">
-                                        </a>
-                                        <p class="mb-0 text-sm">Walk-In</p>
-                                    </div>
-                                    <div class="col-lg-1 col-md-2 col-sm-3 col-4 text-center">
-                                        <a href="javascript:;" class="avatar avatar-xl border border-radius-lg border-success">
-                                            <img alt="Delivery" class="p-1" src="../../../img/icon-es/to2.jpg">
-                                        </a>
-                                        <p class="mb-0 text-sm">Delivery</p>
-                                    </div>
-                                    <div class="col-lg-1 col-md-2 col-sm-3 col-4 text-center">
-                                        <a href="javascript:;" class="avatar avatar-xl border border-radius-lg border-success">
-                                            <img alt="Drive-Thru" class="p-1" src="../../../img/icon-es/to3.jpg">
-                                        </a>
-                                        <p class="mb-0 text-sm">Drive-Thru</p>
-                                    </div>
-                                    <div class="col-lg-1 col-md-2 col-sm-3 col-4 text-center">
-                                        <a href="javascript:;" class="avatar avatar-xl border border-radius-lg border-success">
-                                            <img alt="Advanced Booking" class="p-1" src="../../../img/icon-es/to4.jpg">
-                                        </a>
-                                        <p class="mb-0 text-sm">Advanced Booking</p>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                        </div>
                     </div>
                 </div>
             </div>
