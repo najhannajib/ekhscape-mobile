@@ -211,10 +211,10 @@
                                 <div class="col">
                                     <p class="pb-0 my-0"><strong>Seminar Fee</strong></p>
                                     <div class="row">
-                                        <div class="col">
+                                        <div class="col-4">
                                             <p>MYR 20.00</p>
                                         </div>
-                                        <div class="col-auto">
+                                        <div class="col-8">
                                             <button class="btn btn-sm text-white" style="background-color: darkgreen">
                                                 Pay with Online Banking
                                             </button>
