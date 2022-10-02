@@ -22,7 +22,7 @@
     <link rel="apple-touch-icon" sizes="76x76" href="../../../assets/img/apple-icon.png">
     <link rel="icon" type="image/png" href="../../../assets/img/favicon.png">
     <title>
-        Relau Agriculture Station
+        Relau Agricultural Station
     </title>
     <!--     Fonts and icons     -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
@@ -57,7 +57,7 @@
                         </a>
                     </div>
                     <div class="col-10">
-                        <h4 class=" mt-2 px-0 mb-0 pb-0">Relau Agriculture Station</h4>
+                        <h4 class=" mt-2 px-0 mb-0 pb-0">Relau Agricultural Station</h4>
                         <p class="text-lead  mb-2">The Centre of Food Hub</p>
                     </div>
                 </div>
