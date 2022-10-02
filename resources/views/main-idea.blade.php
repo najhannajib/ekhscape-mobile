@@ -22,7 +22,7 @@
     <link rel="apple-touch-icon" sizes="76x76" href="../../../assets/img/apple-icon.png">
     <link rel="icon" type="image/png" href="../../../assets/img/favicon.png">
     <title>
-        ekhscape studio
+        Relau Agriculture Station
     </title>
     <!--     Fonts and icons     -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
@@ -52,8 +52,8 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-9 text-center mx-auto">
-                        <h1 class="text-white mb-2 mt-5">Relau Agriculture Station</h1>
-                        <p class="text-lead text-white"></p>
+                        <h1 class="text-white mb-2 mt-5 px-0">Relau Agriculture Station</h1>
+                        <p class="text-lead text-white">The Centre of Food Hub</p>
                     </div>
                 </div>
             </div>
@@ -110,7 +110,9 @@
             {{-- map --}}
             <div class="row mt-4">
                 <div class="col">
-                    <img src="../../../img/bg/map.png" alt="map" class="w-100 border-radius-lg">
+                    <a href="/maps">
+                        <img src="../../../img/bg/map.png" alt="map" class="w-100 border-radius-lg">
+                    </a>
                 </div>
             </div>
 
@@ -159,31 +161,33 @@
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Durian Festival</button>
+                                    <button class="btn bg-gradient-success">Durian Festival</button>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Garden Festival</button>
+                                    <button class="btn bg-gradient-success">Garden Festival</button>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Art Festival</button>
+                                    <button class="btn bg-gradient-success">Art Festival</button>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Costume Festival</button>
+                                    <button class="btn bg-gradient-success">Costume Festival</button>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Culture Festival</button>
+                                    <a href="/upcoming/culture_festival" class="btn bg-gradient-success">
+                                        Culture Festival
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Agro Seminar</button>
+                                    <button class="btn bg-gradient-success">Agro Seminar</button>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Kelulut Training</button>
+                                    <button class="btn bg-gradient-success">Kelulut Training</button>
                                 </div>
                                 <div class="col-4 text-center" style="overflow-wrap: break-word;">
-                                    <button class="btn btn-success">Aquacu<br>-lture</button>
+                                    <button class="btn bg-gradient-success">Aquacu<br>-lture</button>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Lelong Buah</button>
+                                    <button class="btn bg-gradient-success">Lelong Buah</button>
                                 </div>
                             </div>
                         </div>
@@ -193,7 +197,9 @@
                             <p class="mb-1 pb-0">Gold Valley Eco-Lodge</p>
                             <div class="row">
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Musang King</button>
+                                    <a href="/accomodation/musang_king" class="btn btn-success">
+                                        Musang King
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
                                     <button class="btn btn-success">Udang Merah</button>
@@ -208,7 +214,9 @@
                                     <button class="btn btn-success">Belida</button>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Julawat</button>
+                                    <a href="/accomodation/julawat" class="btn btn-success">
+                                        Julawat
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
                                     <button class="btn btn-success">Gelami</button>
@@ -224,16 +232,22 @@
                                     <button class="btn btn-success">Sky Bike</button>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Petting Zoo</button>
+                                    <a href="/facilities/petting_zoo" class="btn btn-success">
+                                        Petting Zoo
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Eco-Bike</button>
+                                    <a href="/facilities/dusun_premium_outlet" class="btn btn-success">
+                                        Dusun Premium Outlet
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
                                     <button class="btn btn-success px-2">Convention Centre</button>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Camp Site</button>
+                                    <a href="/facilities/camp_site" class="btn btn-success">
+                                        Camp Site
+                                    </a>
                                 </div>
                             </div>
 
@@ -298,8 +312,8 @@
                             <p class="mb-4">
                                 You're invited to the Durian Festival scheduled on 1 June 2024 until 31 July 2024. Come
                                 and bring back your most favorite Durian! <br>
-                                <a href="#">#durianrelau</a> <a href="#">#durianrelau</a> <a
-                                    href="#">#durianrelau</a> <a href="#">#durianrelau</a>
+                                <a href="#">#durianrelau</a> <a href="#">#instafood</a> <a
+                                    href="#">#visitpenang22</a> <a href="#">#jjcm</a>
                             </p>
                             <img alt="Image placeholder" src="../../../img/bg/durianzs.jpg"
                                 class="img-fluid border-radius-lg shadow-lg">
@@ -424,9 +438,9 @@
             <div class="row">
                 <div class="col-8 mx-auto text-center mt-1">
                     <p class="mb-0 text-secondary">
-                        <script>
+                        {{-- <script>
                             document.write(new Date().getFullYear())
-                        </script> ekhscape studio.
+                        </script> ekhscape studio. --}}
                     </p>
                 </div>
             </div>

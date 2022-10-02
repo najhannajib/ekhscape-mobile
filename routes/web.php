@@ -32,3 +32,35 @@ Route::get('/main-idea', function () {
 Route::get('/mukas', function () {
     return view('main');
 });
+
+Route::get('/upcoming/culture_festival', function () {
+    return view('subpages.culture_festival');
+});
+
+Route::get('/accomodation/musang_king', function () {
+    return view('subpages.musang_king');
+});
+
+Route::get('/accomodation/julawat', function () {
+    return view('subpages.julawat');
+});
+
+Route::get('/facilities/petting_zoo', function () {
+    return view('subpages.petting_zoo');
+});
+
+Route::get('/facilities/camp_site', function () {
+    return view('subpages.camp_site');
+});
+
+Route::get('/facilities/dusun_premium_outlet', function () {
+    return view('subpages.dpo');
+});
+
+Route::get('/maps', function () {
+    return view('subpages.maps');
+});
+
+Route::get('/subbase', function () {
+    return view('subbase');
+});
