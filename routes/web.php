@@ -64,3 +64,7 @@ Route::get('/maps', function () {
 Route::get('/subbase', function () {
     return view('subbase');
 });
+
+Route::get('/in_progress', function () {
+    return view('subpages.construction');
+});

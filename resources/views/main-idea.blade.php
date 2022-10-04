@@ -161,16 +161,24 @@
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-4 text-center">
-                                    <button class="btn bg-gradient-success">Durian Festival</button>
+                                    <a href="/in_progress" class="btn bg-gradient-success">
+                                        Durian Festival
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn bg-gradient-success">Garden Festival</button>
+                                    <a href="/in_progress" class="btn bg-gradient-success">
+                                        Garden Festival
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn bg-gradient-success">Art Festival</button>
+                                    <a href="/in_progress" class="btn bg-gradient-success">
+                                        Art Festival
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn bg-gradient-success">Costume Festival</button>
+                                    <a href="/in_progress" class="btn bg-gradient-success">
+                                        Costume Festival
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
                                     <a href="/upcoming/culture_festival" class="btn bg-gradient-success">
@@ -178,16 +186,24 @@
                                     </a>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn bg-gradient-success">Agro Seminar</button>
+                                    <a href="/in_progress" class="btn bg-gradient-success">
+                                        Agro Seminar
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn bg-gradient-success">Kelulut Training</button>
-                                </div>
-                                <div class="col-4 text-center" style="overflow-wrap: break-word;">
-                                    <button class="btn bg-gradient-success">Aquacu<br>-lture</button>
+                                    <a href="/in_progress" class="btn bg-gradient-success">
+                                        Kelulut Training
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn bg-gradient-success">Lelong Buah</button>
+                                    <a href="/in_progress" class="btn bg-gradient-success w-100" style="overflow: hidden; text-overflow: ellipsis;">
+                                        Aquaculture
+                                    </a>
+                                </div>
+                                <div class="col-4 text-center">
+                                    <a href="/in_progress" class="btn bg-gradient-success">
+                                        Lelong Buah
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -202,16 +218,22 @@
                                     </a>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Udang Merah</button>
+                                    <a href="/in_progress" class="btn btn-success">
+                                        Udang Merah
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Hor Lor</button>
+                                    <a href="/in_progress" class="btn btn-success">
+                                        Hor Lor
+                                    </a>
                                 </div>
                             </div>
                             <p class="mb-1 pb-0">Blue Valley Eco-Lodge</p>
                             <div class="row">
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Belida</button>
+                                    <a href="/in_progress" class="btn btn-success">
+                                        Belida
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
                                     <a href="/accomodation/julawat" class="btn btn-success">
@@ -226,10 +248,14 @@
                             <h6 class="mb-1 mt-4">Facilities</h6>
                             <div class="row mt-2">
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Zip Line King</button>
+                                    <a href="/in_progress" class="btn btn-success">
+                                        Zip Line King
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success">Sky Bike</button>
+                                    <a href="/in_progress" class="btn btn-success">
+                                        Sky Bike
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
                                     <a href="/facilities/petting_zoo" class="btn btn-success">
@@ -242,7 +268,9 @@
                                     </a>
                                 </div>
                                 <div class="col-4 text-center">
-                                    <button class="btn btn-success px-2">Convention Centre</button>
+                                    <a href="/in_progress" class="btn btn-success w-100" style="overflow: hidden; text-overflow: ellipsis;">
+                                        Convention Centre
+                                    </a>
                                 </div>
                                 <div class="col-4 text-center">
                                     <a href="/facilities/camp_site" class="btn btn-success">
